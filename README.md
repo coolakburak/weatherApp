@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img title="Netflix" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.noaa.gov%2Fweather&psig=AOvVaw1x4RnXOntxiRpUriiI1Zzs&ust=1713376320417000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjqm6imx4UDFQAAAAAdAAAAABAE" alt="NETFLIX Logo" width="400" />
+  <img title="Netflix" src="https://www.noaa.gov/sites/default/files/styles/square_width_650/public/2021-02/FocusArea__Weather-02.jpg?h=5dc006f5&itok=20VGa8_F" alt="NETFLIX Logo" width="400" />
   <br>
   Netflix Clone Built Using React.JS & Firebase
 </h1>
