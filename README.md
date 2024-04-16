@@ -21,7 +21,7 @@
  <div align="center"><a name="menu"></a>
 
 <video width="320" height="240" controls>
-  <source src="assets/video1.mp4" type="video/mp4">
+  <source src="./puplic/assets/video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
