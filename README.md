@@ -20,6 +20,10 @@
   
  <div align="center"><a name="menu"></a>
 
+https://github.com/coolakburak/weatherApp/assets/111067790/5fee515c-2fbb-4699-a251-2e8cf8e5ba00
+
+
+
 <video width="320" height="240" controls>
   <source src="./puplic/assets/video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
