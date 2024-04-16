@@ -1,11 +1,12 @@
 <h1 align="center">
-  <img title="Netflix" src="https://www.noaa.gov/sites/default/files/styles/square_width_650/public/2021-02/FocusArea__Weather-02.jpg?h=5dc006f5&itok=20VGa8_F" alt="NETFLIX Logo" width="400" style="border-radius:100" />
-  <br>
-  Netflix Clone Built Using React.JS & Firebase
+  <img title="Netflix" src="https://i.pinimg.com/736x/9c/10/59/9c1059f46f5b9803d62325c60fb312b2.jpg" alt="NETFLIX Logo" width="400 height="400"  />
+  <br></br>
+  Weather App with axios
 </h1>
 
 <p><font size="3">
-  This is a Netflix clone website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of Netflix website. It's a similar version of Netflix with some of the features.This project is showing my abilities in React.JS to build something advanced like Netflix. It contains the home page, a random header, Youtube trailer player.
+  This is a simple weather app. I focused UI and fetching data with axios. In this application, I worked displaying the data from the API to the screen using axios.
+</p>
   <br><br> 
 
 </p>
